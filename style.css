@@ -1,0 +1,16 @@
+h1 {
+  color: blue;
+}
+
+.dogs{
+  text-decoration:underline;
+}
+
+.date1{
+  font-style:italic;
+}
+
+.date2{
+  font-style:italic;
+  font-weight:bold;
+}
